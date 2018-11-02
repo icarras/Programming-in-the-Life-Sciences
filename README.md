@@ -9,7 +9,7 @@
         <link rel="stylesheet2" href="Untitled-2.css">
     </head>
     
-    <body>
+ <body>
         
         <h1> <strong>Hello </strong></h1>
         <h2>Test 1</h2>
@@ -23,7 +23,6 @@
             <li>hi</li>
             <li>there</li>
         </ul>
-        <br>
         
         <h3>Ordered</h3>
         <ol>
@@ -31,7 +30,11 @@
             <li>two</li>
             <li>three</li>
         </ol>
-        <h2>test 2</h2>
+        
+        <h2>Test 2</h2>
+        <h3>Trying out images</h3>
+        <p>This is a bear</p>
+        <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg"/>
         
     </body>
 </html>
